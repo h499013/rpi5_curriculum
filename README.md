@@ -1,10 +1,10 @@
 cat > README.md << 'EOF'
-# RPi Curriculum Journey
+# Raspberry pi 5 Curriculum
 
-32주 라즈베리파이 + ROS 2 + 엣지 AI 학습 기록.
+STM32 -> Raspberry pi 5
 
 
-## R1-1 · 시스템 정보 (첫 부팅)
+## System info
 
 ### Kernel
 ```
