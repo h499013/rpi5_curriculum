@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Raspberry pi 5 Curriculum
 
 STM32 -> Raspberry pi 5
